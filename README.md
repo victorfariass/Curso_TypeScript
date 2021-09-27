@@ -23,15 +23,40 @@ Você também aprenderá que não está limitado a projetos Angular 2+ ou JavaSc
 
 ##### Seção 1: Introdução
 
-- [x] _Introdução do Curso_
-- [x] _Mensagem do Maximilian Schwarzmüller_
-- [x] _O que é TypeScript?_
-- [x] _Por que TypeScript e Como usá-lo?_
-- [x] _Usando o terminal_
-- [x] _Terminais_
-- [x] _Aviso importante aos usuários de Windows_
-- [x] _Instalando TypeScript_
-- [] _Executando TypeScript - Manual_
-- [] _Executando TypeScript - Code Runner_
-- [] _Executando TypeScript - HTML_
-- [] _Recursos do Módulo & Links Úteis_
+- [x] 01. _Introdução do Curso_
+- [x] 02. _Mensagem do Maximilian Schwarzmüller_
+- [x] 03. _O que é TypeScript?_
+- [x] 04. _Por que TypeScript e Como usá-lo?_
+- [x] 05. _Usando o terminal_
+- [x] 06. _Terminais_
+- [x] 07. _Aviso importante aos usuários de Windows_
+- [x] 08. _Instalando TypeScript_
+- [x] 09. _Executando TypeScript - Manual_
+- [x] 10. _Executando TypeScript - Code Runner_
+- [x] 11. _Executando TypeScript - HTML_
+
+##### Seção 2: Usando Tipos
+
+- [ ] 13. _Introdução do Módulo_
+- [ ] 14. _O Básico de Tipos_
+- [ ] 15. _Tipos Numéricos e Booleano_
+- [ ] 16. _Atribuindo Tipos Explícitos_
+- [ ] 17. _Arrays e Tipos_
+- [ ] 18. _Tuplas_
+- [ ] 19. _Enums_
+- [ ] 20. _O Tipo "Any"_
+- [ ] 21. _Código JavaScript Gerado_
+- [ ] 22. _Usando Tipos em Funções (Parâmetros e Retorno)_
+- [ ] 23. _Funções Como Tipos_
+- [ ] 24. _Objetos e Tipos_
+- [ ] 25. _Desafio Tipo Objetos_
+- [ ] 26. _Desafio Tipo Objetos - Resposta_
+- [ ] 27. _Definindo Tipos Personalizados (Alias)_
+- [ ] 28. _Múltiplos Tipos com Union Types_
+- [ ] 29. _Checando Tipos em Runtime_
+- [ ] 30. _O Tipo "Never"_
+- [ ] 31. _Valores Opcionais com Tipo "Null"_
+- [ ] 32. _Desafio: Transformar Código JS em TS_
+- [ ] 33. _Desafio: Transformar Código JS em TS - Código_
+- [ ] 34. _Desafio: Transformar Código JS em TS - Resposta_
+- [ ] 35. _Conclusão do Módulo_
